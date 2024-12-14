@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "228587458711",
+    "project_id": "friending-a9da3",
+    "storage_bucket": "friending-a9da3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228587458711:android:739f063c6ba1e1d314d9d2",
+        "android_client_info": {
+          "package_name": "com.friending.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-FFRuCRZmjKeIUyqf97Y1qo1t_uybL7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
